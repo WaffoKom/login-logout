@@ -41,12 +41,6 @@ Ce projet est une démonstration simple d'un système de login/logout utilisant 
     yarn dev
     ```
 
-5. Lancez l'application React.js :
-
-    ```shell
-    npm start
-    ```
-
 
 
 ## Technologies utilisées
