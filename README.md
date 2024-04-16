@@ -1,5 +1,3 @@
-Bien sûr ! Voici un exemple de README pour un projet de login/logout utilisant React.js et Express.js :
-
 # Projet de Login/Logout avec React.js et Express.js
 
 Ce projet est une démonstration simple d'un système de login/logout utilisant React.js pour le front-end et Express.js pour le back-end.
@@ -36,9 +34,11 @@ Ce projet est une démonstration simple d'un système de login/logout utilisant 
 4. Installez les dépendances du client :
 
     ```shell
-    cd ../client
-    npm install
-    yarn install
+    cd client
+    cd login-logout
+    npm run dev
+    or
+    yarn dev
     ```
 
 5. Lancez l'application React.js :
@@ -46,8 +46,6 @@ Ce projet est une démonstration simple d'un système de login/logout utilisant 
     ```shell
     npm start
     ```
-
-6. Ouvrez votre navigateur et accédez à `http://localhost:3000` pour voir l'application en action.
 
 
 
@@ -61,7 +59,8 @@ Ce projet est une démonstration simple d'un système de login/logout utilisant 
 - Axios : une bibliothèque HTTP pour effectuer des requêtes entre le client et le serveur.
 
 
-
+## Note pour le code source
+-Pour ceux qui utilisent l'authentification double etapes referer vous  a la page google
 
 
 ---
